@@ -47,9 +47,15 @@ Early and accurate prediction of COVID-19 outcomes can support healthcare resour
 
 ---
 
-## Key Learning
-Explored the trade-off between accuracy and recall in medical ML — a model optimised purely for accuracy can miss positive cases. Extra Trees' ability to maintain recall while achieving strong accuracy made it the preferred model for this use case.
+## Project Structure
+
+Covid-Outcome-Prediction/
+│
+├── Covid Predictions.ipynb   # Full notebook with EDA, modelling, evaluation
+└── README.md
 
 ---
 
-## Project Structure
+## Key Learning
+Explored the trade-off between accuracy and recall in medical ML — a model optimised purely for accuracy can miss positive cases. Extra Trees' ability to maintain recall while achieving strong accuracy made it the preferred model for this use case.
+
